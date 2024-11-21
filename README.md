@@ -1,9 +1,7 @@
-```
-Enter Name: Suji.G
-Enter Register No: 212222230152
-```
-<H3>Experiment 2</H3>
-<H3>Date: 04-09-2024</H3>
+<H3> Name </H3>Suji.G
+<H3>Register No.</H3>212222230152
+<H3> Experiment 2</H3>
+<H3>DATE:</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ### Aim:
